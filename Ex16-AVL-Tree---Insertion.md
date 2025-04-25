@@ -56,7 +56,8 @@ node * insert(node *T,int x)
 }  
 ```
 ## Output:
-![Screenshot 2025-04-25 193849](https://github.com/user-attachments/assets/b04bd30c-6d9d-463e-9e2a-f30bb66e61f7)
+
+![Screenshot 2025-04-25 194340](https://github.com/user-attachments/assets/998192e0-3cb9-4ef7-82f9-c6873a0b5fca)
 
 
 
